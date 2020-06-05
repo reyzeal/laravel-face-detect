@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Softon\\LaravelFaceDetect\\": "src/"
+            "Reyzeal\\LaravelFaceDetect\\": "src/"
         }
     },
     "minimum-stability": "dev"

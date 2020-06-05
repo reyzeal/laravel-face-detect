@@ -1,4 +1,4 @@
-<?php namespace Softon\LaravelFaceDetect;
+<?php namespace Reyzeal\LaravelFaceDetect;
 
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\ServiceProvider;

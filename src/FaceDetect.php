@@ -1,4 +1,4 @@
-<?php namespace Softon\LaravelFaceDetect;
+<?php namespace Reyzeal\LaravelFaceDetect;
 
 
 class FaceDetect {

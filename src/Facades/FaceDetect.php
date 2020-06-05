@@ -1,4 +1,4 @@
-<?php namespace Softon\LaravelFaceDetect\Facades;
+<?php namespace Reyzeal\LaravelFaceDetect\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
