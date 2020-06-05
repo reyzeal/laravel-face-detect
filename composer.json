@@ -1,5 +1,5 @@
 {
-    "name": "softon/laravel-face-detect",
+    "name": "reyzeal/laravel-face-detect",
     "description": "A Laravel Package for Face Detection and Cropping in Images.",
     "license": "MIT",
     "keywords": [
@@ -8,8 +8,8 @@
     ],
     "authors": [
         {
-            "name": "Shiburaj",
-            "email": "powerupneo@gmail.com"
+            "name": "Rizal Ardhi Rahmadani",
+            "email": "rizal.ardhi.rahmadani@gmail.com"
         }
     ],
     "require": {
