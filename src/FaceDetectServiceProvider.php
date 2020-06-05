@@ -19,7 +19,7 @@ class FaceDetectServiceProvider extends ServiceProvider {
 	 */
 	public function register()
 	{
-        $this->app->bind('FaceDetect', '\Softon\LaravelFaceDetect\FaceDetect');
+        $this->app->bind('FaceDetect', '\Reyzeal\LaravelFaceDetect\FaceDetect');
         
 	}
 
