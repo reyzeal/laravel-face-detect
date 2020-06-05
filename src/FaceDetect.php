@@ -16,7 +16,7 @@ class FaceDetect {
         $this->padding_width = config('facedetect.padding_width');
         $this->padding_height = config('facedetect.padding_height');
 
-        $detection_file = base_path().'/vendor/softon/laravel-face-detect/src/Data/detection.dat';
+        $detection_file = base_path().'/vendor/reyzeal/laravel-face-detect/src/Data/detection.dat';
         if (is_file($detection_file)) {
             $this->detection_data = unserialize(file_get_contents($detection_file));
         } else {
